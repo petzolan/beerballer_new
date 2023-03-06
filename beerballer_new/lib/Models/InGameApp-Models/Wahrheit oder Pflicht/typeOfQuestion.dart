@@ -1,0 +1,4 @@
+enum TypeOfQuestion {
+  truth,
+  dare,
+}

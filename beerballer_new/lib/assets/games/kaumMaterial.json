@@ -1,0 +1,276 @@
+{
+	"kaumMaterialGames": [
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Wer würde eher?",
+			"playerNumber": "2 - 10",
+			"gameDuration": "10 - 25 Minuten",
+			"materials": "Getränke",
+			"funFactor": "0.5",
+			"drunknessFac": "0.4",
+			"difficulty": "0.3",
+			"dirtyFactor": "1",
+			"explanations": [
+				"Das Spiel „Wer würde eher“ garantiert so manche interessanten Diskussionen, in denen man entscheiden muss, welcher Spieler am ehesten eine Sache machen würden.",
+				"Entweder kann man sich Fragen selbst überlegen oder man verwendet eine App um das Spiel „Wer würde eher?“ zu spielen.",
+				"Es wird eine Frage gestellt und diskutiert wer diese Sachen als ehestes machen würde. Die Person, bei der die meisten Personen sagen – er würde dies am ehesten tuen – muss 2 Schlücke trinken.",
+				"Als Beispiel kann die Frage gestellt werden: „Wer würde sich  am ehesten ein One Night Stand klären“."
+			],
+			"imagePath": "./assets/images/games/werwürdeeher.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Kanake",
+			"playerNumber": "2 - 10",
+			"gameDuration": "5 - 20 Minuten",
+			"materials": "Bier",
+			"funFactor": "0.5",
+			"drunknessFac": "0.5",
+			"difficulty": "0.5",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Der Reihe um wird ein Spieler ausgesucht, der Schätzen muss.",
+				"Die anderen müssen gleichzeitig mit der Hand entweder kein  Finger zeigen – also eine 0 – oder alle Finger zeigen – also 5. D.h. Bei 3 Teilnehmern kann entweder eine 0, 5, 10 oder 15 als Summe rauskommen.",
+				"Wenn der Spieler richtig getippt hat, müssen die anderen trinken, ansonsten muss er selbst trinken.",
+				"Es können auch mehrere Spieler tippen, welche Zahl rauskommt. Derjenige, der schlechter getippt hat, muss trinken."
+			],
+			"imagePath": "./assets/images/games/kanake.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Finger aufs Glas",
+			"playerNumber": "2 - 15",
+			"gameDuration": "5 - 20 Minuten",
+			"materials": "Bier",
+			"funFactor": "0.6",
+			"drunknessFac": "0.5",
+			"difficulty": "0.5",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Für das Spiel Finger auf Glas wird nur ein Glas oder ein Becher benötigt.",
+				"Der Reihe um werden  Spieler ausgesucht, die Schätzen müssen. Es kann aber auch nur ein Spieler schätzen.",
+				"In der 1. Variante müssen die anderen Spieler gleichzeitig ihre Finger auf das Glas legen. Also kann ein Spieler entweder kein Finger, einen, mehrere oder alle Finger auf  das Glas legen. Bei 3 Teilnehmern können am geringsten 0 Finger drauf liegen oder 15 Finger.",
+				"Der Spieler, der am schlechtesten getippt hat, muss trinken.",
+				"In der 2. Variante muss der einzelne Spieler auch schätzen wie viele Finger auf das Glas gelegt werden. Die Differenz an Schlücken muss er trinken. Falls er richtig getippt hat, müssen die anderen Spieler die doppelte Anzahl an Schlücken trinken. Bei 5 Fingern muss jeder Spieler 10 Schlücke trinken."
+			],
+			"imagePath": "./assets/images/games/fingeraufsglas.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Flachwitz Challenge",
+			"playerNumber": "2 - 20",
+			"gameDuration": "5 - 15 Minuten",
+			"materials": "Bier",
+			"funFactor": "0.5",
+			"drunknessFac": "0.4",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Beim Spiel „Flachwitz  Challenge“ kann jeder seine  besten/schlechtesten Flachwitze auspacken, die der Spieler kennt! Man kann sich natürlich auch Flachwitze aus  dem Internet raussuchen.",
+				"Man kann aber auch seiner Kreativität freien Lauf lassen.",
+				"Falls jemand der anderen Spieler über den Flachwitz  lacht, muss er einen Schluck  trinken.",
+				"Lacht niemand, muss der Spieler selbst trinken.",
+				"Lacht der Spieler über seinen eigenen Witz, muss er sein  Getränk exen.",
+				"Beispiel für einen Flachwitz: „Was passiert, wenn man Cola und Bier gleichzeitig trink? – Man colabiert“",
+				"Danach ist der nächste  Spieler dran einen Flachwitz zu erzählen."
+			],
+			"imagePath": "./assets/images/games/flachwitzchallenge.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Klatschen (Brasilien Style)",
+			"playerNumber": "2 - 20",
+			"gameDuration": "5 - 30 Minuten",
+			"materials": "Bier",
+			"funFactor": "0.7",
+			"drunknessFac": "0.4",
+			"difficulty": "0.5",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Beim Spiel Klatschen ist die Reaktionsfähigkeit der Spieler gefragt.",
+				"Ein Spieler fängt mit einem der 3 Kommandos an. Entweder man klatscht und zeigt nach links – dann ist die Person links von einem dran. Oder man klatscht nach rechts und die Person rechts neben dir ist dran. Oder man klatscht normal in die Hände und die Person rechts neben dir wird übersprungen.",
+				"Die 1. Person, die einen Fehler begeht, muss trinken.",
+				"Danach fängt das Spiel von vorne an.",
+				"Der Spieler der einen Fehler begangen hat, darf anfangen."
+			],
+			"imagePath": "./assets/images/games/klatschen.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Wer bin ich?",
+			"playerNumber": "2 - 10",
+			"gameDuration": "5 - 10 Minuten",
+			"materials": "Zettel, Stifte, Klebestreifen",
+			"funFactor": "0.6",
+			"drunknessFac": "0.3",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Vorab bekommt jeder einen Zettel und Stift und schreibt sich eine Person auf, die am besten alle kennen (Prominente oder Freundeskreis).",
+				"Anschließend dürfen alle in der Gruppe gleichzeitig jeweils  eine Person eine Frage zu seiner eigenen Person stellen. Die Fragen müssen eine ja/nein Antworten gewährleisten.",
+				"Bei einer Nein-Antwort muss man einen Schluck trinken.",
+				"Der Erste, der seine Person errät, darf 10 Schlücke verteilen, der 2. darf 8 Schlücke verteilen usw.",
+				"Falls man nicht die richtige Person errät, muss man 5 Schlücke trinken.",
+				"Der Verlierer bzw. der als letztes seine Person errät, muss  sein Bier exen."
+			],
+			"imagePath": "./assets/images/games/werbinich.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Zigarettenschachtel werfen",
+			"playerNumber": "2 - 8",
+			"gameDuration": "2 - 10 Minuten",
+			"materials": "Zigarettenschachtel",
+			"funFactor": "0.5",
+			"drunknessFac": "0.7",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Im Uhrzeigersinn wird eine Packung Zigaretten geworfen.  Dabei muss sich die Packung  mindestens einmal umschlagen. Ansonsten ist der Wurf nicht gültig.",
+				"Wenn die Schachtel flach landet, ist es 1 Schluck. /n→ Wenn die Schachtel auf der Seite landet, sind es 3 Schlücke /n→ Wenn die Schachtel auf dem Kopf landet, sind es 5 Schlücke /n→ Wenn die Schachtel auf  der Unterseite landet, sind es 10 Schlücke",
+				"Der nachfolgende Spieler muss immer mindestens einen  Wurf mit selber Schluckanzahl oder höherer werfen. Wenn er es geschafft hat, werden die Schlücke addiert und der nachfolgende Spieler muss wieder mindestens den gleichen Wurf hinbekommen.",
+				"Schafft es ein Spieler nicht mehr gleichzuziehen, muss er die addierte Anzahl der Schlücke trinken.",
+				"Falls jemand die Zigarettenschachtel auf den Boden  fallen lässt, muss derjenige sein Bier exen."
+			],
+			"imagePath": "./assets/images/games/zigarettenschachtelwerfen.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Kommando Pimperle",
+			"playerNumber": "2 - 20",
+			"gameDuration": "2 - 10 Minuten",
+			"materials": "Bier",
+			"funFactor": "0.7",
+			"drunknessFac": "0.5",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Es wird ein Spielleiter ausgesucht, der die Kommandos vorgibt. Diese müssen die Spieler nachmachen oder wenn es gefordert ist, diese nicht nachmachen.",
+				"Für dieses Spiel können sich eigene Regeln ausgedacht  werden oder vorgegebene benutzt werden: /n→ „Pimperle” – den Zeigefinger auf den Tisch legen. /n→ „Hoch” – die Arme sind in die Höhe zu strecken. /n→ „Tief” – die Arme müssen unter den Tisch gesteckt werden. /n→ „Flach” – die Handfläche ist auf den Tisch zu legen. /n→ „Faust” – die Faust ist auf  den Tisch zu legen. /n→ „Ellbogen” – die Ellbogen sind am Tisch aufzustützen.",
+				"Nur, wenn beispielsweise „Hoch“ vorher Kommando gesagt wird, muss die Aktion aus geführt werden. Wenn vorher kein Kommando angesagt wird, soll die Aktion nicht ausgeführt werden.",
+				"Derjenige, der die falsche Aktion beim Kommando durch führt, muss trinken."
+			],
+			"imagePath": "./assets/images/games/kommandopimperle.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Wortersetzen",
+			"playerNumber": "3 - 10",
+			"gameDuration": "5 - 15 Minuten",
+			"materials": "Ggetränk",
+			"funFactor": "0.7",
+			"drunknessFac": "0.5",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Die Spieler sagen der reihum die Zahlen 1 bis 15 auf.",
+				"Der Spieler, der die 15 hat, kann nun eine Zahl mit einem  Wort ersetzen, z.B. 6 mit Zigarettenautomat.",
+				"Nun wird wieder der reihum die Zahlen aufgezählt. Der  Spieler der die Zahl 6 erreicht, muss die 6 mit dem Wort Zigarettenautomat ersetzt. Also: 1-2-3-4-5-Zigarettenautomat-7-8-9-10… Bei 15 darf die nächste Zahl ersetzt werden.",
+				"Wird statt dem Ersatzwort die Zahl gesagt, muss getrunken werden. Auch wenn eine falsche Zahl gesagt wird, muss getrunken werden.",
+				"Bei einer falschen Zahl oder Wort kann man das Spiel entweder komplett von vorne beginnen oder man startet wieder dort wo ein Spieler es falsch aufgesagt hat."
+			],
+			"imagePath": "./assets/images/games/wortersetzen.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Russische Post",
+			"playerNumber": "5 - 15",
+			"gameDuration": "10 - 25 Minuten",
+			"materials": "Zettel, Stift, Schüsseln, Schal oder ähnliches zum Augen verbinden ",
+			"funFactor": "0.6",
+			"drunknessFac": "0.6",
+			"difficulty": "0.3",
+			"dirtyFactor": "1",
+			"explanations": [
+				"Man benötigt 3 verschiedene Schüsseln o.ä. und schreibt auf kleinen Zetteln alle Jungennamen, die in 1 Schüssel kommen, alle Frauennamen für die 2. Schüssel und für die 3. Schüssel überlegt man sich Aufgaben, welche man machen muss (z.B. Kleidungsstück ausziehen, kuscheln, küssen etc.).",
+				"Zu Beginn des Spiels wer den einem Spieler die Augen verbunden und er greift in alle 3 Schüsseln/Töpfe, so dass er einen Jungen, ein Mädchen so wie eine Aufgabe gezogen hat.",
+				"Im Anschluss müssen die beiden betroffenen Personen die Aufgabe erfüllen.",
+				"Wird es verweigert, müssen beide trinken.",
+				"Danach wird dem nächsten Spieler die Augen verbunden  und zieht aus den 3 Schüsseln jeweils einen Zettel.",
+				"Man kann die bereits gezogenen Zettel wieder in die Schüssel zurücklegen oder sie sind danach aus dem Spiel. Man kann natürlich auch die  Geschlechter vermischen, dass bei einer Aufgabe 2 Jungs oder 2 Mädchen die Aufgabe erledigen müssen."
+			],
+			"imagePath": "./assets/images/games/russischepost.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Russisch Roulette",
+			"playerNumber": "2 - 10",
+			"gameDuration": "3 - 8 Minuten",
+			"materials": "Shotgläser, Wasser, klarer Alkohol",
+			"funFactor": "0.5",
+			"drunknessFac": "0.9",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Bei dem Spiel „Russisch Roulette“ wird es dem Zufall  bzw. Glück überlassen, wie viele Shots man trinken darf.",
+				"Ein Spieler befüllt viele Shotgläser (je nachdem wie viele  Leute mitmachen) und befüllt sie entweder mit Wasser oder mit dem klaren hochprozentigen Alkohol. Anschließend verteilt er die Shotgläser in einer  Reihe. Die anderen Spieler dürfen währenddessen natürlich nicht nachgucken, welche Shots mit welchem Getränk befüllt wurden.",
+				"Die anderen Spieler müssen sich nun in der Reihenfolge jeweils für ein Shotglas entscheiden und bekommen entweder Alkohol oder Wasser.",
+				"Nach einigen Runden, in denen man Russisch Roulette  gespielt hat, ist man auch mal über ein Shot Wasser glücklich."
+			],
+			"imagePath": "./assets/images/games/russischroulette.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Flunky Ball",
+			"playerNumber": "2 - ∞",
+			"gameDuration": "5 - 20 Minuten",
+			"materials": "1 Flasche, 1 Ball",
+			"funFactor": "0.9",
+			"drunknessFac": "0.8",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.3",
+			"explanations": [
+				"Es wird eine Flasche in der Mitte aufgestellt und beide  Teams stellen sich im gleichen Abstand gegenüber von der Flasche auf.",
+				"Jeder Spieler der Teams hatt ein geöffnetes Bier vor sich.",
+				"Durch Schere, Stein, Papier o.ä. wird ausgesucht, welches  Team beginnen darf.",
+				"Ein Spieler des Teams wirft mit dem Ball auf die Flasche in der Mitte und versucht sie umzuwerfen.",
+				"Bei erfolgreichen Umwerfen fängt das Werferteam an ihr  Bier zu exxen und das andere Team muss die Flasche wieder aufstellen und den Ball holen.",
+				"Wenn das andere Team beides erledigt hat, ruft es Stop und das Werferteam muss aufhören zu exen.",
+				"Danach wirft ein Spieler des anderen Teams usw.",
+				"Wenn von einem Spieler  das Bier umgeworfen wird oder es anfängt überzuschäumen, bekommt er ein weiteres Bier als Strafbier.",
+				"Gewonnen hat das Team,  bei dem alle Spieler des Teams ihr Bier erfolgreich geext haben."
+			],
+			"imagePath": "./assets/images/games/flunkyball.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Elefantenrennen",
+			"playerNumber": "2 - 8",
+			"gameDuration": "5 - 15 Minuten",
+			"materials": "Bier, 2 Strohhälme",
+			"funFactor": "0.6",
+			"drunknessFac": "0.7",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.5",
+			"explanations": [
+				"2 Flaschen Bier werden in  gleichem Abstand zu 2 Perso nen aufgestellt.",
+				"Beim Startsignal rennen diese Personen auf die Flasche  zu und exen sie.",
+				"Danach wird ein Finger in die Flasche gesteckt und sie drehen sich 10-mal um diese herum.",
+				"Danach rennt man wieder zurück zum Startpunkt.",
+				"Sieger ist, wer zuerst wieder am Ziel ist.",
+				"Möglich ist auch eine Teambildung mit mehreren Teampartnern, indem man bei: /n→ „Schritt 1“ – mehrere Biere aufstellt und nach… /n→ „Schritt 2“ – bis 4 mit dem  Teampartner abklatscht und dieser die Schritte wiederholt."
+			],
+			"imagePath": "./assets/images/games/elefantenrennen.jpg"
+		},
+		{
+			"gameCategory": "Kaum Material",
+			"gameName": "Klamottenmarathon",
+			"playerNumber": "2 - 20",
+			"gameDuration": "5 - 20 Minuten",
+			"materials": "Klamotten, Bier, Strohhälme",
+			"funFactor": "0.6",
+			"drunknessFac": "0.6",
+			"difficulty": "0.3",
+			"dirtyFactor": "0.7",
+			"explanations": [
+				"Es werden 2 gleich große Teams gebildet.",
+				"In 5 oder 10 Meter Entfernung zu den beiden Teams werden jeweils 1 Bier mit Strohhalm platziert sowie die Klamottenstücke (z.B. Jeans, T-Shirt).",
+				"Bei einem Signal starten die ersten 2 Spieler eines Teams und rennen zu dem Bier. Als erstes müssen sie die Klamotten anziehen und im Anschluss ein großer Schluck vom Bier trinken. Danach müssen die Klamotten wieder ausgezogen werden.",
+				"Wenn Schritt 3 erledigt ist, darf der Spieler zurückrennen, mit dem nächsten Teampartner abklatschen und der nächste ist dran.",
+				"Gewonnen hat das Team, welches schneller ist.",
+				"Als Alternative kann man anstatt ein Schluck im Bier mehrere Biere hinstellen und die Spieler müssen jeweils 1 Bier exen. ;-)"
+			],
+			"imagePath": "./assets/images/games/klamottenmarathon.jpg"
+		}
+	]
+}
